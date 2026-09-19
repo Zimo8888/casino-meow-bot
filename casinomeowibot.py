@@ -28,9 +28,9 @@ BOT_PHOTO = "https://postimg.cc/bsFhLBzs"
 
 # ================= تنظیمات گروه‌ها =================
 GROUPS_INFO = {
-    -1004410278746: {"name": "گپ کازینو میویی", "link": "https://t.me/your_link_1"},
-    -1004361388414: {"name": "Gp chat meow", "link": "https://t.me/your_link_2"},
-    -1003922581663: {"name": "گپ میویی", "link": "https://t.me/your_link_3"}
+    -1004410278746: {"name": "گپ کازینو میویی", "link": "https://t.me/+EIMTMUbEeftmZDVi"},
+    -1004361388414: {"name": "Gp chat meow", "link": "https://t.me/+sQyzswr0cddhOWVk"},
+    -1003922581663: {"name": "گپ میویی", "link": "https://t.me/+EfaCLf6aNY05Y2U6"}
 }
 ALLOWED_GROUPS = list(GROUPS_INFO.keys())
 
